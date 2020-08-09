@@ -4,4 +4,4 @@
  1. Mostrar dados do Covid-19.
 
 ## Colaborador: 
-*Anderson Eduardo Dourado Porto
+* Anderson Eduardo Dourado Porto
