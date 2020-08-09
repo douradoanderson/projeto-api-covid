@@ -1,6 +1,6 @@
 # projeto-api-covid
 
-##Objetivo:
+## Objetivo:
  1. Mostrar dados do Covid-19.
 
 ## Colaborador: 
